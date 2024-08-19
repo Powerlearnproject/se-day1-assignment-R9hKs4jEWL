@@ -3,7 +3,6 @@
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
-
 Explain what software engineering is and discuss its importance in the technology industry.
 software engineering is a crucial field that focuses on creating reliable and efficient software products. 
 it can also be the systematic application of engineering principles, methods and tools to the development and maintenance of high-quality software systems.
@@ -115,7 +114,6 @@ Importance:
 
 
 #Part 2: Introduction to AI and Prompt Engineering
-
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt engineering is all about creating your questions or instructions in a way that helps you get the best responses from your robot or AI assistant.
